@@ -1,13 +1,13 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> YAMETE KUDASAI!
 <p align="center">
-<img src="https://user-images.githubusercontent.com/IamNotGanZ/https://www.wallpaperbetter.com/wallpaper/637/464/851/gameglobe-action-adventure-2K-wallpaper.jpg"
+<img src="https://user-images.githubusercontent.com/RiizX/https://www.wallpaperbetter.com/wallpaper/637/464/851/gameglobe-action-adventure-2K-wallpaper.jpg"
   </p>
 <br>
 <p align="center">
- <a href="#"><img title="🐊 IamNotGanZ 🐊" src="https://img.shields.io/badge/IamNotGanZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="🐊 RiizX 🐊" src="https://img.shields.io/badge/RiizX-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/IamNotGanZ"><img title="ADMIN" src="https://img.shields.io/badge/AUTHOR-IamNotGanZ-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/RiizX"><img title="ADMIN" src="https://img.shields.io/badge/AUTHOR-RiizX-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <div align="center">  
   Pengertian Dari Brainly
@@ -61,7 +61,7 @@ Brainly mempunyai aturan yaitu,
 
 --------
 
-### NEW/ROOKIE HACKER 
+### Grey HACKER 
 --------
 ### MY TEAM
 ---------
@@ -77,7 +77,7 @@ Brainly mempunyai aturan yaitu,
 
 <p align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IamNotGanZ&repo=IamNotGanZ&theme=highcontrast)](https://github.com/IamNotGanZ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RiizX&repo=RiizX&theme=highcontrast)](https://github.com/IamNotGanZ)
 
 </p>
 
@@ -87,21 +87,21 @@ Brainly mempunyai aturan yaitu,
 -----------
 
 <p align="center">
-<a href="https://github.com/IamNotGanZ/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=IamNotGanZ&show_icons=true&include_all_commits=true&theme=material-white" alt="IamNotGanZ github stats" />
+<a href="https://github.com/RiizX/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RiizX&show_icons=true&include_all_commits=true&theme=material-white" alt="RiizX github stats" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/IamBotGanZ/github-readme-stats">
+<a href="https://github.com/RiizX/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IamNotGanZ&layout=compact&theme=material-white" /
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RiizX&layout=compact&theme=material-white" /
   </p>
    
 
   <p align="center">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=IamNotGanZ&label=VIEWS&style=flat-square&color=orange" />
+  <img src="https://komarev.com/ghpvc/?username=RiizX&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
 --------
